@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/165998013" width="150" height="150" alt="Shubham Gusain" style="border-radius:50%;">
+</p>
+
+
 # 👋 Hi there, I'm Shubham Gusain
 
 ## 🚀 About Me
