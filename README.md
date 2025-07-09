@@ -42,11 +42,18 @@ Features include:
 - Direct connection to specialist doctors
 
 ### 🏠 [ Edu-Flash — AI Flashcard Generator](https://github.com/Shubham0x1/Edu-Flash)  
+📚 Edu-Flash — AI Flashcard Generator
 AI-powered flashcard generator built with Python, Flask, NLTK, and Google Gemini API.
+
 Highlights:
-Instantly generates flashcards from PDFs or raw text
+
+⚡ Instantly generates flashcards from PDFs or raw text
+
 🎓 Allows editing and custom questions for deeper learning
-🌐 Supports multi-language translation and export in various formats (JSON, CSV, Anki)
+
+🌐 Supports multi-language translation and export in JSON, CSV, Anki formats
+
+
 
 ---
 
