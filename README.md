@@ -41,12 +41,12 @@ Features include:
 - Medical history tracking and sharing
 - Direct connection to specialist doctors
 
-### 🏠 [Real Estate Financing App](https://github.com/Shubham0x1/Real-Estate-Financing)  
-Frontend application built with **HTML**, **CSS**, and **JavaScript**.  
+### 🏠 [ Edu-Flash — AI Flashcard Generator](https://github.com/Shubham0x1/Edu-Flash)  
+AI-powered flashcard generator built with Python, Flask, NLTK, and Google Gemini API.
 Highlights:
-- Streamlined loan application process
-- Real-time real estate news updates
-- Empowering users to manage finances effectively
+Instantly generates flashcards from PDFs or raw text
+🎓 Allows editing and custom questions for deeper learning
+🌐 Supports multi-language translation and export in various formats (JSON, CSV, Anki)
 
 ---
 
