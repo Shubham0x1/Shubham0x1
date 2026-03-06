@@ -2,6 +2,9 @@
   <img src="https://avatars.githubusercontent.com/u/165998013" width="150" height="150" alt="Shubham Gusain" style="border-radius:50%;">
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shubham0x1&label=Profile%20Views&color=blue&style=flat" alt="profile views"/>
+</p>
 
 # 👋 Hi there, I'm Shubham Gusain
 
