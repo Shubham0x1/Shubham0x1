@@ -37,28 +37,82 @@
 
 ## 📂 Projects
 
-### 🩺 [SwasthyaPath](https://github.com/Shubham0x1/SwasthyaPath)  
-A holistic health platform built with **React.js**, **Vite**, and **MongoDB**.  
-Features include:
-- Personalized nutrition and health planning
-- Medical history tracking and sharing
-- Direct connection to specialist doctors
+🔐 MPIN Strength Analyzer
 
-### 🏠 [ Edu-Flash — AI Flashcard Generator](https://github.com/Shubham0x1/Edu-Flash)  
-📚 Edu-Flash — AI Flashcard Generator
-AI-powered flashcard generator built with Python, Flask, NLTK, and Google Gemini API.
+A security-focused Python project that evaluates whether a mobile banking MPIN is strong or weak using pattern detection and demographic-based analysis.
 
-Highlights:
+🔗 Live App:
+https://shubham0x1-mpin-strength-analyzer-app-jcji3d.streamlit.app/
 
-⚡ Instantly generates flashcards from PDFs or raw text
+✨ Highlights:
 
-🎓 Allows editing and custom questions for deeper learning
+Detects commonly used weak MPINs
 
-🌐 Supports multi-language translation and export in JSON, CSV, Anki formats
+Identifies MPINs derived from DOB or personal data
 
+Supports 4-digit and 6-digit MPIN analysis
 
+Returns strength + weakness reasons
 
----
+Built using Python, Streamlit, and Jupyter
+
+🤖 AI-Powered Interview Assistant
+
+A React-based AI interview simulator that conducts technical interviews with timed questions and generates evaluation summaries.
+
+🔗 Live Demo:
+https://ai-powered-interview-assistant-kcal-49g4wuwdr.vercel.app/
+
+✨ Highlights:
+
+Resume upload and automatic parsing
+
+AI-generated interview questions
+
+Timed responses with difficulty levels
+
+Interviewer dashboard with candidate analytics
+
+Session persistence with resume capability
+
+Tech Stack:
+
+React
+
+TypeScript
+
+Tailwind CSS
+
+Redux
+
+🚀 GuideWave – Mentorship Platform
+
+GuideWave is a modern mentorship platform that helps students and professionals connect with mentors to accelerate their career growth.
+
+🔗 Live Website:
+https://guide-wave.vercel.app/
+
+✨ Highlights:
+
+Mentor discovery and matching
+
+Goal setting and progress tracking
+
+Responsive UI design
+
+Built with Next.js App Router architecture
+
+Tech Stack:
+
+Next.js
+
+TypeScript
+
+Tailwind CSS
+
+ShadCN UI
+
+Vercel Deployment
 
 ## 🎓 Certifications
 
